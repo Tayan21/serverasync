@@ -1,17 +1,17 @@
 {
   "countries":[
     {
-      "abbreviation": "BD",
+      "country": "Bangladesh",
       "capital": "Dhaka",
       "id": 1
     },
     {
-      "abbreviation": "BE",
+      "country": "Belgium",
       "capital": "Brussels",
       "id": 2
     },
     {
-      "abbreviation": "BF",
+      "abbreviation": "Burkina-Faso",
       "capital": "Ouagadougou",
       "id": 3
     }
